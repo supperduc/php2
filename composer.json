@@ -1,0 +1,15 @@
+{
+    "name": "dtv/oop-mvc",
+    "autoload": {
+        "psr-4": {
+            "Dtv\\OopMvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "supperduc",
+            "email": "teentitan119@gmail.com"
+        }
+    ],
+    "require": {}
+}
